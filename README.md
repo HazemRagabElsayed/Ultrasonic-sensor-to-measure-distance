@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Hazem Elbaz from Egypt<br><br>📚 I'm currently learning Embedded systems and AI</p>
+<p align="left">I'm Hazem Elbaz from Egypt<br><br>📚 I'm currently learning Embedded systems</p>
 
 ###
 
