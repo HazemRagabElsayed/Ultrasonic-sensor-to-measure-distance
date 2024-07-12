@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Ultrasonic-sensor-to-measure-distance
+<h1 align="center">Description
 </h1>
 
 ###
