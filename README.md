@@ -1,4 +1,5 @@
-# Ultrasonic-sensor-to-measure-distance
+<h1 align="center">Ultrasonic to measure distance
+</h1>
 
 
 
@@ -18,10 +19,25 @@
 
 ###
 
-<h1 align="center">Description
-</h1>
+<h2 align="left">
+Description:
+</h2>
 
 ###
+
+<h2 align="left">
+Devices used:
+</h2>
+
+<h2 align="left">
+Tools used:
+</h2>
+
+<h2 align="left">
+note:
+</h2>
+
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
