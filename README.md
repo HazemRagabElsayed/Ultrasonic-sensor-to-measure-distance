@@ -1,7 +1,6 @@
 <h1 align="center">Ultrasonic Sensor to measure distance
 </h1>
-
-
+Microcontroller sends a pulse(high voltage (logic high) between two low voltages(logic low)) of about 10 microseconds(us) milliseconds to trig pin of ultrasonic sensor, then ultrasonic sensor generates 8 pulses of 40 KHz frequency which move with the speed of sound,at same instant ultrasonic sensor outputs logic high at its echo pin, then these pulses reach to an object (if there is an object) and refelcts in opposite direction and when it reaches to ultrasonic sensor it outputs logic low at its echo pin then the time that the echo pin remains high is the time of path multiplied by 2 (time to go and return back) so we divide it by 2 to get the time of path then we multiply this time by speed of sound to get the distance of the path and we display this distance on LCD
 
 
 
@@ -33,7 +32,7 @@ Devices used:
 
 -LCD 16x2 (for displaying Distance)
 
--Ultrasonic senosr(SR04)
+-Ultrasonic senosr(HC-SR04)
 
 <h2 align="left">
 Tools used:
