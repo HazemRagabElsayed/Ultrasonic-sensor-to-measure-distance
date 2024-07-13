@@ -29,9 +29,19 @@ Description:
 Devices used:
 </h2>
 
+-Atmega32 (where we put our code to do specific functions)
+
+-LCD 16x2 (for displaying Distance)
+
+-Ultrasonic senosr(SR04)
+
 <h2 align="left">
 Tools used:
 </h2>
+
+-Proteus 8 Professional
+
+-Atmel Studio 6.0
 
 <h2 align="left">
 note:
