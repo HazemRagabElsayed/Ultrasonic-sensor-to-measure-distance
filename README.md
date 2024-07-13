@@ -47,6 +47,11 @@ Tools used:
 note:
 </h2>
 
+-There is a video provided in the folder
+
+-if distance is 80 or above then LCD displays no object
+
+-I used a T-square ruler to calibrate distances becuase the equation that is relating temperature with the speed of sound didn't give correct results
 
 
 <h3 align="left">👩‍💻  About Me</h3>
