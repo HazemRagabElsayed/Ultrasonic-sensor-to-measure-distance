@@ -1,4 +1,4 @@
-<h1 align="center">Ultrasonic to measure distance
+<h1 align="center">Ultrasonic Sensor to measure distance
 </h1>
 
 
